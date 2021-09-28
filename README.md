@@ -19,7 +19,7 @@
 
 Leave a comment on [Ko-fi] or join me on [LinkedIn]
 
-<a href='https://ko-fi.com/h0tw1r3' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X46DOM3)
 
 [mame]: https://www.mamedev.org/
 [Webmap]: https://github.com/h0tw1r3/ValheimWebMap
