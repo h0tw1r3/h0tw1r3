@@ -18,7 +18,7 @@
 * [CI], [CD], [Bare metal] and [PXE]
 * Classic arcades, [mame], and [attractmode]
 * [dtf] home directory management
-* Employment! Currently seeking a Senior SRE, DevOps, or similar systems architecture role
+* Seeking a new challenge! [Check out my resume]. Currently seeking a Senior SRE, DevOps, or similar systems architecture role
 
 ### 📫 How to reach me
 
@@ -56,3 +56,4 @@ Leave a comment on [Ko-fi] or join me on [LinkedIn]
 [Kubernetes]: https://kubernetes.io/
 [Ko-fi]: https://ko-fi.com/h0tw1r3
 [LinkedIn]: https://linkedin.com/in/h0tw1r3
+[Check out my resume]: https://btolab.com/resume/
