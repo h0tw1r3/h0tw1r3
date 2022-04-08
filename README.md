@@ -1,14 +1,26 @@
 ### 🔭 I’m currently working on
 
-* Valheim [Webmap]
-* Integrating IP cameras as live TV channels in [Plex]
-* Hacking [Rancher] [k3os] to run from PXE boot on diskless bare metal
+* Home automation
+  * [Home Assistant]
+  * [Node-RED]
+  * [Hubitat]
+  * [IoTaWatt]
 
 ### 🌱 I’m currently learning
 
+* HashiCorp [Nomad]
 * [Kubernetes] specifically [k3s], [vxlan], and the various CNI providers
   such as [Flannel], [Calico] and [Weave]
 * [Tinkerbell] bare metal provisioning engine
+
+### ☢ Back-burner
+
+* Valheim [Webmap]
+* Integrating IP cameras as live TV channels in [Plex] 
+
+### ☢ Abandoned
+
+* Hacking [Rancher] [k3os] to run from PXE boot on diskless bare metal
 
 ### 💬 Ask me about
 
@@ -18,7 +30,6 @@
 * [CI], [CD], [Bare metal] and [PXE]
 * Classic arcades, [mame], and [attractmode]
 * [dtf] home directory management
-* Seeking a new challenge! [Check out my resume]. Currently seeking a Senior SRE, DevOps, or similar systems architecture role
 
 ### 📫 How to reach me
 
@@ -57,3 +68,8 @@ Leave a comment on [Ko-fi] or join me on [LinkedIn]
 [Ko-fi]: https://ko-fi.com/h0tw1r3
 [LinkedIn]: https://linkedin.com/in/h0tw1r3
 [Check out my resume]: https://btolab.com/resume/
+[Nomad]: https://www.nomadproject.io
+[IoTaWatt]: https://iotawatt.com/
+[Hubitat]: https://hubitat.com/
+[Home Assistant]: https://www.home-assistant.io/
+[Node-RED]: https://nodered.org/
