@@ -1,21 +1,24 @@
 ### 🔭 I’m currently working on
 
 * Home automation
+  * [Proxmox] with [ZFS storage patched for overlayfs support]
+  * Provisioning and automation with [Terraform] and Puppet [Bolt]
   * [Home Assistant]
   * [Node-RED]
   * [Hubitat]
   * [IoTaWatt]
+* Gaming
+  * Valheim [Webmap]
 
 ### 🌱 I’m currently learning
 
-* HashiCorp [Nomad]
+* HashiCorp [Nomad] and [Terraform]
 * [Kubernetes] specifically [k3s], [vxlan], and the various CNI providers
   such as [Flannel], [Calico] and [Weave]
 * [Tinkerbell] bare metal provisioning engine
 
 ### ⚠ Back-burner
 
-* Valheim [Webmap]
 * Integrating IP cameras as live TV channels in [Plex] 
 
 ### ☢ Abandoned
@@ -54,7 +57,7 @@ Leave a comment on [Ko-fi] or join me on [LinkedIn]
 [PXE]: https://en.wikipedia.org/wiki/Preboot_Execution_Environment
 [attractmode]: http://attractmode.org/
 [mame]: https://www.mamedev.org/
-[Webmap]: https://github.com/h0tw1r3/ValheimWebMap
+[Webmap]: https://github.com/h0tw1r3/valheim-webmap
 [Plex]: https://www.plex.tv
 [Rancher]: https://rancher.com/
 [dtf]: https://github.com/h0tw1r3/dtf
@@ -73,3 +76,7 @@ Leave a comment on [Ko-fi] or join me on [LinkedIn]
 [Hubitat]: https://hubitat.com/
 [Home Assistant]: https://www.home-assistant.io/
 [Node-RED]: https://nodered.org/
+[Bolt]: https://puppet.com/open-source/bolt/
+[Proxmox VE]: https://www.proxmox.com/en/proxmox-ve
+[ZFS storage patched for overlayfs support]: https://github.com/h0tw1r3/pve-edge-kernel/tree/pve-edge-kernel-testing
+[Terraform]: https://www.terraform.io/
