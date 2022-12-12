@@ -1,32 +1,39 @@
-### 🔭 I’m currently working on
+### 🔭 Currently working on
 
-* Home automation
-  * [Proxmox] with [ZFS storage patched for overlayfs support]
-  * Provisioning and automation with [Terraform] and Puppet [Bolt]
-  * [Home Assistant]
-  * [Node-RED]
-  * [Hubitat]
-  * [IoTaWatt]
-* Gaming
-  * Valheim [Webmap]
+#### Server Lab
 
-### 🌱 I’m currently learning
+* [Proxmox VE] with [ZFS storage patched for overlayfs support]
+* Provisioning and automation with [Terraform] and Puppet [Bolt]
+
+#### Home Automation
+
+* [Home Assistant]
+* [Node-RED]
+* [Hubitat]
+* [IoTaWatt]
+
+#### Gaming
+
+* Valheim [Webmap]
+
+### 🌱 Currently learning
 
 * HashiCorp [Nomad] and [Terraform]
 * [Kubernetes] specifically [k3s], [vxlan], and the various CNI providers
   such as [Flannel], [Calico] and [Weave]
 * [Tinkerbell] bare metal provisioning engine
 
-### ⚠ Back-burner
+#### ⚠ Back-burner
 
 * Integrating IP cameras as live TV channels in [Plex] 
 
-### ☢ Abandoned
+#### ☢ Abandoned
 
 * Hacking [Rancher] [k3os] to run from PXE boot on diskless bare metal
 
 ### 💬 Ask me about
 
+* Platform automation with [Puppet] and [Bolt].
 * [Linux]! [RHEL], [Debian] and [Ubuntu] lately. I've been known to publish a package or two for [Arch]
 * [Python], [PHP], [Ruby], [Go]
 * [Juniper]
@@ -76,7 +83,8 @@ Leave a comment on [Ko-fi] or join me on [LinkedIn]
 [Hubitat]: https://hubitat.com/
 [Home Assistant]: https://www.home-assistant.io/
 [Node-RED]: https://nodered.org/
+[Puppet]: https://puppet.com/try-puppet/open-source-puppet/
 [Bolt]: https://puppet.com/open-source/bolt/
 [Proxmox VE]: https://www.proxmox.com/en/proxmox-ve
-[ZFS storage patched for overlayfs support]: https://github.com/h0tw1r3/pve-edge-kernel/tree/pve-edge-kernel-testing
+[ZFS storage patched for overlayfs support]: https://github.com/h0tw1r3/pve-edge-kernel/tree/pve-edge-overlayfs
 [Terraform]: https://www.terraform.io/
