@@ -1,20 +1,15 @@
 ### 🔭 Currently working on
 
-#### Server Lab
-
-* [Proxmox VE] with [ZFS storage patched for overlayfs support]
-* Provisioning and automation with [Terraform] and Puppet [Bolt]
-
-#### Home Automation
-
-* [Home Assistant]
-* [Node-RED]
-* [Hubitat]
-* [IoTaWatt]
-
-#### Gaming
-
-* Valheim [Webmap]
+* **Server Lab**
+  * [Proxmox VE] with [ZFS storage patched for overlayfs support]
+  * Provisioning and automation with [Terraform] and Puppet [Bolt]
+* **Home Automation**
+  * [Home Assistant]
+  * [Node-RED]
+  * [Hubitat]
+  * [IoTaWatt]
+* **Gaming**
+  * Valheim [Webmap]
 
 ### 🌱 Currently learning
 
@@ -23,11 +18,11 @@
   such as [Flannel], [Calico] and [Weave]
 * [Tinkerbell] bare metal provisioning engine
 
-#### ⚠ Back-burner
+### ⚠ Back-burner
 
 * Integrating IP cameras as live TV channels in [Plex] 
 
-#### ☢ Abandoned
+### ☢ Abandoned
 
 * Hacking [Rancher] [k3os] to run from PXE boot on diskless bare metal
 
